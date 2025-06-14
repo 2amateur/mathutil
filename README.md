@@ -15,12 +15,10 @@ CI technique using GitHub Actions.
 ## Screen-shots
 
 ### TDD, DDT test script with JUnit
-![TDD, DDT with JUnit](https://github.com/2amateur/
-mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
+![TDD, DDT with JUnit](https://github.com/2amateur/mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
 
 ### Maven builder to build .jar file
-![Maven builder](https://github.com/2amateur/mathutil
-/blob/main/screenshots/Maven%20Builder.png)
+![Maven builder](https://github.com/2amateur/mathutil/blob/main/screenshots/Maven%20Builder.png)
 
 ### Connect me via: ntantrong9.2@gmail.com
 
