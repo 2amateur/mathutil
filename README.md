@@ -9,9 +9,7 @@ JDK.
 * A Unit Testing test script using JUnit Testing 
 framework, TDD, DDT techniques.
 * A CI (Continuous Integration) script to demonstrate
-CI technique using GitHub.
-
-Actions:
+CI technique using GitHub Actions.
 * ...
 
 ### Connect me via: ntantrong9.2@gmail.com
