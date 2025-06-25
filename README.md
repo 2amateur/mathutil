@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 by Trong.nguyen](https://github.com/2amateur/mathutil/actions/workflows/ci_runner.yml/badge.svg)](https://github.com/2amateur/mathutil/actions/workflows/ci_runner.yml)
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
